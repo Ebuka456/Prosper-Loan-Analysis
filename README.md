@@ -1,6 +1,11 @@
-# Prosper-Loan-Analysis
+# Prosper Loan Analysis: Who is struggling with their loans?
 
 ![](https://github.com/Ebuka456/Prosper-Loan-Analysis/blob/main/Property_Finance_Condo_Loan_sts_1372683893.jpg)
+
+## INTRODUCTION
+This project is dedicated to the analysis of a loan dataset from Prosper Loan, with the goal of gaining insights into customer borrowing behaviors. The primary objective is to enhance our understanding of customers and identify those who may be facing challenges in loan repayment.
+
+This is the final project of the Udacity Data Analyst Nanodegree and this project helped me explore Data Visualization with Python for Exploratory and Explanatory Data Analysis.
 
 ### OVERVIEW OF THE DATASET
 
